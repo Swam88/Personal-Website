@@ -1,0 +1,135 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Akaya Telivigala', cursive;
+  color:#40514E;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 3.125rem;
+  text-align: center
+  font-family: 'Merriweather', serif;
+}
+
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 1.875rem;
+  text-align: center
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3   {
+  color: #11999E;
+  font-size: 1.25rem;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 40px;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: static;
+  padding-top: 2px;
+  margin: 0;
+}
+.middle-container{
+margin: 20px auto 20px auto;
+ }
+
+ .skills{
+   padding-top: 30px;
+ }
+
+.skill-row{
+  width: 50%;
+  text-align: left;
+  overflow: auto;
+  margin: auto;
+}
+
+.Random-Thing{
+  width:30%;
+  margin: 40px auto 60px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.copyright{
+  color: #EAF6F6;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 350px;
+}
+
+.top-cloud{
+  position:absolute;
+  right: 250px;
+  top: 20px;
+}
+
+.Google-Sheets{
+  width: 50%;
+  float: left;
+}
+
+.Google-Docs{
+  width: 50%;
+  float: right;
+}
+
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+  margin: 50px 20px 50px 0;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.copyright{
+  font-size: 0.75rem;
+}
+
+p{
+  padding-top: 10px;
+  line-height: 20px;
+}
+
+hr{
+  border-top: dotted 6px;
+  width: 4%;
+  color: #EAF6F6;
+  margin: 50px auto 10px auto;
+}
+
+contact-me{
+    width: 200px;
+    height: 120px;
+}
+
+.button{
+  background-color:#66BFBF;
+	border-radius:28px;
+	border:1px solid #66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+
+.button:Hover{
+  background-color: grey;
+}
